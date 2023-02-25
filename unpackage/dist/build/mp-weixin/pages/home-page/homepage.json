@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "点餐界面",
+  "navigationBarBackgroundColor": "#f7d45f",
+  "usingComponents": {
+    "scart": "/pages/home-page/components/s-cart",
+    "details": "/pages/home-page/components/goods_detail",
+    "home": "/pages/skeleton-view/home"
+  }
+}
